@@ -25,7 +25,7 @@ On Windows, download the code above by clicking the green Code button and downlo
 
 # Conclusion
 
-That's it! Refer to the wiki for more detailed usage of the script
+That's it! Refer to the wiki to learn more on how to use the script. If there are any issues, open an issue. 
 
 # Todo 
 
